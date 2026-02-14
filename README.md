@@ -85,15 +85,15 @@ Feature 4: Community Helpline – Provides easy access to contact details for su
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](./Screenshot 2026-02-14 100710.png
+![Screenshot1](s1.png
 )
 *Add caption explaining what this shows*
 
-![Screenshot2](./Screenshot 2026-02-14 100731.png
+![Screenshot2](s2.png
 )
 *Add caption explaining what this shows*
 
-![Screenshot3](./Screenshot 2026-02-14 100743.png)
+![Screenshot3](s3.png)
 *Add caption explaining what this shows*
 
 #### Diagrams
