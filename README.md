@@ -2,15 +2,15 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# Hand in Hand 🎯
+# Hand_In_Hand 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [pluto]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [fidha] - [ICET]
+- Member 2: [Anha] - [ICET]
 
 ### Hosted Project Link
 [mention your project hosted link here]
