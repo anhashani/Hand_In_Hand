@@ -16,13 +16,13 @@
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A community hub connecting food donors,women entrepreneurs, and volunteers to create a stronger , more caring society]
 
 ### The Problem statement
-[What problem are you solving?]
+[In many communities, food waste is high, and people in need do not get access to available resources. At the same time, small women-run businesses struggle to reach customers due to lack of proper platforms. Additionally, coordinating volunteers for delivery is difficult without a structured system.]
 
 ### The Solution
-[How are you solving it?]
+[“Hand In Hand” connects donors, volunteers, and local women entrepreneurs in one platform. It reduces food waste, supports women-run businesses, and ensures timely delivery to those in need—making community support simple and efficient.]
 
 ---
 
@@ -31,25 +31,27 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: HTML, CSS, JavaScript
 
+Frameworks used: None 
+
+Libraries used: None 
+
+Tools used: VS Code, Web Browser (Chrome/Edge), Git 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
+-Not applicable (purely web-based project)
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: Food Donation Management – Donors can add food details, pickup location, and expiry time; users can view and accept available food items.
+
+Feature 2: Women Business Support – Platform allows women entrepreneurs to register their business and display their products or services.
+
+Feature 3: Volunteer Coordination – Delivery volunteers can register their availability and locations to help deliver donated items.
+
+Feature 4: Community Helpline – Provides easy access to contact details for support and inquiries, ensuring quick assistance.
 
 ---
 
